@@ -1,0 +1,7 @@
+Zerodha creds:
+Username: RZV331
+Password: Neptune@93
+PIN: 616161
+TPIN: 446004
+
+Your Tracking No. is H300920220623207493
